@@ -51,5 +51,7 @@ Hi, I'm Danny and I'm a Software Engineer, PADI Divemaster, rock climber and hoc
   <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg"/>
   <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"/>
   <img width="10%" src="https://www.vectorlogo.zone/logos/q2/q2-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21~bgwhite.svg"/>
   <img width="10%" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21~bgwhite.svg"/>
 </div>
