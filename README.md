@@ -13,30 +13,43 @@ Hi, I'm Danny and I'm a Software Engineer, PADI Divemaster, rock climber and hoc
 
 
 #### Client
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21~bgwhite.svg"/></code>
+
+  
+<div>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21~bgwhite.svg"/>
+</div>
+
 
 #### Server
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg"/></code>
+<div>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg"/>
+<div>
 
 #### Cloud
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg"/></code>
+<div>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg"/>
+</div>
 
 #### CI/CD
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21~bgwhite.svg"/></code>
+<div>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21~bgwhite.svg"/>
+</div>
 
 #### Databases and Tools
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/q2/q2-ar21~bgwhite.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21~bgwhite.svg"/></code>
+<div>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/q2/q2-ar21~bgwhite.svg"/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21~bgwhite.svg"/>
+</div>
